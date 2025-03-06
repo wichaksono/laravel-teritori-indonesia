@@ -1,6 +1,15 @@
 # laravel-teritori-indonesia (Updated 2024)
 
-### Copy & Paste Folder database
+## BUKAN LIBRARY !!!
+
+### Tables
+- provinces
+- cities
+- districts
+- sub_districts
+- postal_codes
+
+### Copy & Paste Folder database dan app/Models
 
 ### Jalankan Migrate
 ```bash
