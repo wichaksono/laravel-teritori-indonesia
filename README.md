@@ -1,7 +1,7 @@
 # laravel-teritori-indonesia (Updated 2024)
 
 ## BUKAN LIBRARY !!!
-Ini bukan library jadi tidak pake ```composer``` tapi di-copy & paste biasa. OK :D
+Karena Ini bukan library jadi tidak pake ```composer```tapi di-copy & paste biasa. Tolong hati-hati agar project kamu tidak rusak OK :D
 
 ### Tables
 - provinces
